@@ -1,8 +1,8 @@
 ---
-title: "Persian V"
+title: Persian V
 nav_order: 2
 permalink: /per-ver/
-layout: home
+layout: default
 ---
 
 # مکانیک کوانتومی: پایه‌ای برای فناوری‌های آینده
