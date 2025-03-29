@@ -23,11 +23,11 @@ layout: home
   - [Fundamental Concepts](#fundamental-concepts)
   - [Wave-Particle Duality](#wave-particle-duality)
   - [Entanglement](#entanglement)
-  - [Quantum Theories and Applications](#quantum-theories-and-applications)
+
 ---
 
 ## Summary
-Entangled Photons are a critical phenomenon in quantum mechanics, where pairs of photons become linked in such a way that the measurement of one photon instantly influences the state of the other, irrespective of the distance between them.[1](#ref1)[2](#ref2) This unique property forms the basis of various quantum information technologies, enabling advancements in secure communication methods, quantum cryptography, and quantum teleportation.[3](#ref3)[4](#ref4) The significance of entangled photons lies not only in their theoretical implications but also in their practical applications, which are revolutionizing fields such as telecommunications and information security.
+Entangled Photons are a critical phenomenon in quantum mechanics, where pairs of photons become linked in such a way that the measurement of one photon instantly influences the state of the other, irrespective of the distance between them.[(1)](#ref1)[(2)](#ref2) This unique property forms the basis of various quantum information technologies, enabling advancements in secure communication methods, quantum cryptography, and quantum teleportation.[(3)](#ref3)[(4)](#ref4) The significance of entangled photons lies not only in their theoretical implications but also in their practical applications, which are revolutionizing fields such as telecommunications and information security.
 
 The generation of entangled photons has garnered substantial attention, particularly through methods like Spontaneous Four-Wave Mixing (SFWM) and the utilization of quantum dots containing biexcitons. SFWM is notable for its compatibility with semiconductor technologies, facilitating on-chip entangled photon sources, while quantum dots enable efficient photon pair production, enhancing the overall yield of entangled states.[1](#ref1)[2](#ref2) These advancements are integral to the development of robust quantum communication networks capable of maintaining security against potential eavesdropping, leveraging principles like the no-cloning theorem and superposition.[3](#ref3)
 
