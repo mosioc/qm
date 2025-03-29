@@ -98,20 +98,19 @@ Entanglement is another fundamental phenomenon in quantum mechanics, wherein the
 The theoretical framework of quantum mechanics includes various interpretations and mathematical formulations, such as the Copenhagen interpretation, many-worlds interpretation, and the path integral formulation. Quantum mechanics has led to significant advancements in technology, including lasers, semiconductors, and quantum computing, driving ongoing research in fields such as quantum information processing and quantum optics[14][6][15].
 
 ---
-
 ## References
-1. Understanding Photon Entanglement: A Journey through Quantum ...
-2. New light source emits bright, entangled photons for quantum ...
-3. Entangled Photon - an overview | ScienceDirect Topics
-4. Quantum Entanglement: Exploring Its Uses in Tech - Physics Forums
-5. Quantum Confinement - an overview | ScienceDirect Topics
-6. Quantum Entanglement and its Applications - Deltec Bank and Trust
-7. Researchers exploit quantum entanglement to create hidden images
-8. Light for the quantum. Entangled photons and their applications
-9. Five Practical Uses for "Spooky" Quantum Mechanics | Smithsonian
-10. What are some practical uses for quantum entanglement ... - Quora
-11. Unraveling the Mysteries of Photon Entanglement - IZAK Scientific
-12. What Is Entanglement and Why Is It Important?
-13. How can quantum entanglement be applied for some practical use ...
-14. Quantum Entanglement: Spooky Action at a Distance - YouTube
-15. How Can Quantum Entanglement Be Used For Secure ...
+1. [Understanding Photon Entanglement: A Journey through Quantum ...](https://izakscientific.com/understanding-photon-entanglement-a-journey-through-quantum-optics/)
+2. [New light source emits bright, entangled photons for quantum ...](https://phys.org/news/2024-08-source-emits-bright-entangled-photons.html)
+3. [Entangled Photon - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/engineering/entangled-photon)
+4. [Quantum Entanglement: Exploring Its Uses in Tech - Physics Forums](https://www.physicsforums.com/threads/quantum-entanglement-exploring-its-uses-in-tech.429086/)
+5. [Quantum Confinement - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/engineering/quantum-confinement)
+6. [Quantum Entanglement and its Applications - Deltec Bank and Trust](https://www.deltecbank.com/news-and-insights/quantum-entanglement-and-its-applications/)
+7. [Researchers exploit quantum entanglement to create hidden images](https://physicsworld.com/a/researchers-exploit-quantum-entanglement-to-create-hidden-images/)
+8. [Light for the quantum. Entangled photons and their applications](https://iopscience.iop.org/article/10.1088/1402-4896/aa736d)
+9. [Five Practical Uses for "Spooky" Quantum Mechanics | Smithsonian](https://www.smithsonianmag.com/science-nature/five-practical-uses-spooky-quantum-mechanics-180953494/)
+10. [What are some practical uses for quantum entanglement ... - Quora](https://www.quora.com/What-are-some-practical-uses-for-quantum-entanglement-and-superposition)
+11. [Unraveling the Mysteries of Photon Entanglement - IZAK Scientific](https://izakscientific.com/unraveling-the-mysteries-of-photon-entanglement-a-journey-into-quantum-applications/)
+12. [What Is Entanglement and Why Is It Important?](https://scienceexchange.caltech.edu/topics/quantum-science-explained/entanglement)
+13. [How can quantum entanglement be applied for some practical use ...](https://www.reddit.com/r/askscience/comments/l14nqb/how_can_quantum_entanglement_be_applied_for_some/)
+14. [Quantum Entanglement: Spooky Action at a Distance - YouTube](https://www.youtube.com/watch?v=JFozGfxmi8A)
+15. [How Can Quantum Entanglement Be Used For Secure ...](https://thequantuminsider.com/2023/02/20/quantum-entanglement-communication/)
