@@ -2,7 +2,7 @@
 title: Persian V
 nav_order: 2
 permalink: /per-ver/
-layout: default
+layout: persian
 ---
 
 # مکانیک کوانتومی
