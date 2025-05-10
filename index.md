@@ -346,8 +346,6 @@ $$
 P(x) = |\psi(x)|^2
 $$
 
-For a general observable $\hat{A}$ with eigenstates $|a_i\rangle$ and eigenvalues $a_i$, the expectation value is:
-
 $$
 \langle \hat{A} \rangle = \sum_i a_i |\langle a_i|\psi \rangle|^2
 $$
@@ -362,13 +360,19 @@ $$
 Where $\hat{P}_{a_i}$ is the projection operator and $\hat{\rho}$ is the density matrix.
 
 ## Quantum Interference
-Quantum interference occurs when probability amplitudes combine, leading to constructive or destructive interference patterns that have no classical analog. The interference of quantum states $|\psi_1\rangle$ and $|\psi_2\rangle$ is described by:
+Quantum interference occurs when probability amplitudes combine, leading to constructive or destructive interference patterns that have no classical analog. The interference of quantum states
+$$|\psi_1\rangle$$
+and
+$$|\psi_2\rangle$$
+is described by:
 
 $$
 |\psi_1 + \psi_2|^2 = |\psi_1|^2 + |\psi_2|^2 + 2\text{Re}(\psi_1^*\psi_2)
 $$
 
-Where the cross-term $2\text{Re}(\psi_1^*\psi_2)$ represents the quantum interference effect.
+Where the cross-term
+$$2\text{Re}(\psi_1^*\psi_2)$$
+represents the quantum interference effect.
 
 ### Double-Slit Experiment
 The double-slit experiment provides the quintessential demonstration of quantum interference, where single particles such as electrons or photons create an interference pattern as if they were waves passing through both slits simultaneously. This experiment highlights the wave-particle duality central to quantum mechanics and shows that quantum particles explore multiple paths simultaneously. Modern variations of this experiment have confirmed interference effects with increasingly larger particles, exploring the boundary between quantum and classical behaviors[(9)](#ref9)[(13)](#ref13). The wave function for a particle passing through two slits can be written as:
