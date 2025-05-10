@@ -103,7 +103,16 @@ $$
 E_{n_x,n_y,n_z} = \frac{\hbar^2\pi^2}{2m}\left(\frac{n_x^2}{L_x^2}+\frac{n_y^2}{L_y^2}+\frac{n_z^2}{L_z^2}\right)
 $$
 
-Where $n_x$, $n_y$, and $n_z$ are quantum numbers, and $L_x$, $L_y$, and $L_z$ are the dimensions of the confinement region.
+Where:
+$$ n_x $$
+$$n_y$$
+and
+$$n_z$$
+are quantum numbers, and
+$$L_x$$
+$$L_y$$
+and $$L_z$$
+are the dimensions of the confinement region.
 
 ### Applications of Quantum Dots
 
@@ -149,7 +158,13 @@ $$
 i\hbar\frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat{H}\Psi(\mathbf{r},t)
 $$
 
-Where $\Psi(\mathbf{r},t)$ is the wave function, $\hat{H}$ is the Hamiltonian operator, and $\hbar$ is the reduced Planck constant.
+Where:
+$$\Psi(\mathbf{r},t)$$
+is the wave function,
+$$\hat{H}$$
+is the Hamiltonian operator, and
+$$\hbar$$
+is the reduced Planck constant.
 
 ### Fundamental Concepts
 At the core of quantum mechanics is the concept of the quantum state, which encapsulates all the information about a system. The basic unit of quantum information is the qubit, analogous to a classical bit but capable of existing in a superposition of states. This allows qubits to represent multiple values simultaneously, leading to the potential for quantum computation that far exceeds classical capabilities[(11)](#ref11)[(7)](#ref7).
@@ -176,7 +191,11 @@ $$
 E_n = \hbar\omega\left(n+\frac{1}{2}\right), \quad n=0,1,2,...
 $$
 
-Where $\omega$ is the angular frequency and $n$ is the quantum number.
+Where
+$$\omega$$
+is the angular frequency and
+$$n$$
+is the quantum number.
 
 ### Zero-Point Energy
 Even at absolute zero temperature, quantum systems retain a residual energy known as zero-point energy, a direct consequence of the Heisenberg uncertainty principle. This phenomenon indicates that particles can never be completely at rest, maintaining minimum energy fluctuations. Zero-point energy has significant implications for quantum field theory and vacuum energy considerations, potentially contributing to the cosmological constant and the expansion of the universe[(7)](#ref7)[(12)](#ref12).
@@ -209,7 +228,15 @@ $$
 \lambda = \frac{h}{p} = \frac{h}{mv}
 $$
 
-Where $h$ is Planck's constant, $p$ is momentum, $m$ is mass, and $v$ is velocity.
+Where
+$$h$$
+is Planck's constant,
+$$p$$
+is momentum,
+$$m$$
+is mass, and
+$$v$$
+is velocity.
 
 
 ## Quantum and Angular Momentum
@@ -296,7 +323,11 @@ $$
 \mathcal{L}_{\text{QED}} = -\frac{1}{4}F_{\mu\nu}F^{\mu\nu} + \bar{\psi}(i\gamma^\mu D_\mu - m)\psi
 $$
 
-Where $F_{\mu\nu}$ is the electromagnetic field tensor and $\gamma^\mu$ are the Dirac matrices.
+Where
+$$F_{\mu\nu}$$
+is the electromagnetic field tensor and
+$$\gamma^\mu$$
+are the Dirac matrices.
 
 ### Feynman Diagrams
 Feynman diagrams serve as a graphical representation of particle interactions in QED, depicting processes such as electron-photon scattering and pair production. These diagrams translate complex mathematical calculations into visual representations that track particle paths and interaction vertices. Each diagram corresponds to a term in a perturbative expansion of the quantum amplitude, allowing physicists to systematically calculate probabilities for different quantum processes. The success of Feynman diagrams in QED has led to their adoption across quantum field theories[(8)](#ref8)[(15)](#ref15). The scattering amplitude in QED can be written as:
@@ -352,7 +383,9 @@ $$
 I(x) \propto |\psi(x)|^2 = |\psi_1(x)|^2 + |\psi_2(x)|^2 + 2|\psi_1(x)||\psi_2(x)|\cos(\delta\phi)
 $$
 
-Where $\delta\phi$ is the phase difference between the two paths.
+Where
+$$\delta\phi$$
+is the phase difference between the two paths.
 
 ### Quantum Computing Applications
 Quantum interference forms the basis for many quantum computing algorithms, allowing quantum bits (qubits) to explore multiple solution paths simultaneously. This property enables quantum computers to potentially solve certain problems exponentially faster than classical computers. Interference effects are harnessed in algorithms such as Grover's search algorithm and quantum phase estimation, which underpin applications ranging from database searching to quantum simulation of physical systems. The control and manipulation of quantum interference patterns remain central challenges in the development of practical quantum computers[(10)](#ref10)[(15)](#ref15).
